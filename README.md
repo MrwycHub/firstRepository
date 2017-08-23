@@ -1,2 +1,1 @@
-# firstRepository
-第一个库进行简单的使用练习
+点击readme之后到了这个页面
