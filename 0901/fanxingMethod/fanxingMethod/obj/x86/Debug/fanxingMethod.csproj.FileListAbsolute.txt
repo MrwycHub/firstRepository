@@ -1,0 +1,5 @@
+/Users/neworigin/Desktop/c#课堂学习/0901/fanxingMethod/fanxingMethod/bin/Debug/fanxingMethod.exe
+/Users/neworigin/Desktop/c#课堂学习/0901/fanxingMethod/fanxingMethod/bin/Debug/fanxingMethod.pdb
+/Users/neworigin/Desktop/c#课堂学习/0901/fanxingMethod/fanxingMethod/obj/x86/Debug/fanxingMethod.csproj.CoreCompileInputs.cache
+/Users/neworigin/Desktop/c#课堂学习/0901/fanxingMethod/fanxingMethod/obj/x86/Debug/fanxingMethod.exe
+/Users/neworigin/Desktop/c#课堂学习/0901/fanxingMethod/fanxingMethod/obj/x86/Debug/fanxingMethod.pdb
