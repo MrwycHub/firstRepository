@@ -1,0 +1,5 @@
+/Users/wzc/Desktop/code/20171713第七教室/0824_1/0824_1/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/wzc/Desktop/code/20171713第七教室/0824_1/0824_1/bin/Debug/0824_1.pdb
+/Users/wzc/Desktop/code/20171713第七教室/0824_1/0824_1/bin/Debug/0824_1.exe
+/Users/wzc/Desktop/code/20171713第七教室/0824_1/0824_1/obj/x86/Debug/0824_1.exe
+/Users/wzc/Desktop/code/20171713第七教室/0824_1/0824_1/obj/x86/Debug/0824_1.pdb
